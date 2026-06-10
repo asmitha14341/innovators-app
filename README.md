@@ -1,13 +1,19 @@
 # 🛡️ Innovators App
 
-Cybersecurity · AI · Cloud Dashboard
+Live Demo → https://innovators-app.streamlit.app
 
 ## Team
-- Asmitha Reddy
-- Seejal Reddy
+- 👩‍💻 Asmitha Reddy— Lead Developer  
+- 👩‍💻 Seejal Reddy — AI & Cloud
 
-## Live Demo
-[Click here](YOUR_STREAMLIT_URL)
+## Features
+- 📊 Project Activity Dashboard
+- 🛡️ Cybersecurity Scanner
+- 🤖 AI Assistant
+- ☁️ Cloud Monitoring
+
+## Tech Stack
+Python · Streamlit · Plotly · GitHub
 
 ## Run Locally
 pip install -r requirements.txt
