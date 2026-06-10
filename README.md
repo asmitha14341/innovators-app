@@ -3,8 +3,8 @@
 Cybersecurity · AI · Cloud Dashboard
 
 ## Team
-- Asmitha
-- Minnu
+- Asmitha Reddy
+- Seejal Reddy
 
 ## Live Demo
 [Click here](YOUR_STREAMLIT_URL)
